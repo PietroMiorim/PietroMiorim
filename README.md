@@ -1,5 +1,12 @@
 ## Olá! Eu sou o Pietro Miorim 
 
+### Um pouco de mim!
+>15 anos.
+>Louveira-SP.
+>Desde pequeno sempre gostei muito de Tecnologia, e agora me aprofundando no Desenvolvimento Web.
+	
+
+
 <div align="center">
   	<a href="https://github.com/PietroMiorim">
   		<img height="160em" src="https://github-readme-stats.vercel.app/api?username=PietroMiorim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
